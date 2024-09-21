@@ -3,26 +3,18 @@ A dataset example_data.txt is already present in the current working folder.
 
 It looks like:
 
+|         |          |       |             |
+|---------|----------|-------|-------------|
 | apple   | 10       | 1.2   | USA         |
-
 | banana  | 20       | 0.5   | Mexico      |
-
 | orange  | 30       | 0.8   | Brazil      |
-
 | mango   | 15       | 1.5   | India       |
-
 | kiwi    | 25       | 1.0   | New Zealand |
-
 | grape   | 50       | 2.2   | France      |
-
 | berry   | 40       | 1.8   | USA         |
-
 | papaya  | 12       | 1.3   | India       |
-
 | melon   | 35       | 0.9   | Mexico      |
-
 | pear    | 22       | 1.7   | USA         |
-
 
 
 As you can see, this dataset contains fruits name (column 1), quantity in stock(column 2), price per unit (column 3) and country of origin (column 4).
