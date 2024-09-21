@@ -14,6 +14,7 @@ It looks like:
 | melon   | 35       | 0.9   | Mexico      |
 | pear    | 22       | 1.7   | USA         |
 
+
 As you can see, this dataset contains fruits name (column 1), quantity in stock(column 2), price per unit (column 3) and country of origin (column 4).
 
 In this tutorial, we will be using this example data, to learn essential awk commands.
